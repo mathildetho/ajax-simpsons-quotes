@@ -1,0 +1,23 @@
+button {
+    margin: 2em 0;
+    cursor: pointer;
+    color:#fff;
+    background-color:#2dddfc;
+    border-radius: 20px;
+    border:  solid #2dddfc;
+}
+
+.content {
+    display: flex;
+}
+
+#quote {
+    width: 50%;
+    margin: auto;
+}
+
+.content img {
+    width: 30%;
+    height: 30%;
+    margin: auto;
+}
