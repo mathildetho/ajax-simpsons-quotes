@@ -1,3 +1,3 @@
-# ajax-simpsons-quotes
+# Simpsons-quotes
 
 https://simpsons-quotescard.netlify.com/
